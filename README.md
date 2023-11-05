@@ -37,13 +37,6 @@
 </div>
 
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nadiadamasceno&bg_color=E6E6FA&color=0000ff&line=0000ff&point=0000ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
-
-
-I'm open to collaboration and knowledge sharing. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/your-linkedin-profile), and you can also send me an email at [your.email@example.com](mailto:your.email@example.com).
-
-Let's connect, learn, and grow together! 🤝
