@@ -19,12 +19,30 @@
 - I'm enthusiastic about the potential of big data and analytics, and I look forward to leveraging data to make informed decisions and solve complex problems.
 
 ### 🛠️ Main skills:
-
 <div>
-  <img width="40" height="40" src="https://i.im.ge/2023/11/05/yUUD59.AWS-Cloud-1.png" alt="git"/>
-  <img width="40" height="40" src="https://i.im.ge/2023/11/05/yUUD59.AWS-Cloud-1.png" alt="python"/>
-  <img width="40" height="40" src="https://img.icons8.com/nolan/64/sql.png" alt="sql"/>
-  <img width="40" height="40" src="https://i.im.ge/2023/11/05/yUUD59.AWS-Cloud-1.png" alt="AWS-cloud"/>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python"/>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode"/>
+<img width="40" height="40" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-SQL-development-files-those-icons-flat-those-icons.png" alt="SQL"/>
+<img width="40" height="40" src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/external-notion-social-media-tanah-basah-glyph-tanah-basah.png" alt="notion"/>
+</div>
+.
+.
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nadiadamasceno&show_icons=true&count_private=true&hide_border=true&title_color=0000ff&icon_color=0000ff&text_color=0000ff&bg_color=E6E6FA" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadiadamasceno&layout=compact&hide_border=true&title_color=0000ff&text_color=0000ff&bg_color=E6E6FA" />
+</div>
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nadiadamasceno&bg_color=E6E6FA&color=0000ff&line=0000ff&point=0000ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
 
 I'm open to collaboration and knowledge sharing. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/your-linkedin-profile), and you can also send me an email at [your.email@example.com](mailto:your.email@example.com).
 
