@@ -63,17 +63,8 @@
 ## My Stats:
 <p align="center">
 <div style="border-radius: 15px; border: 5px solid #4B0082; overflow: hidden;">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=nadiadamasceno&show_icons=true&count_private=true&theme=radical&bg_color=DA70D6&title_color=FFFFFF&text_color=000000">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=nadiadamasceno&show_icons=true&count_private=true&theme=radical&bg_color=8B008B&title_color=FFFFFF&text_color=000000">
 </div>
 </p>
 
-
-## Activity On GitHub
-<p align="center">
-  <a href="https://github.com/Nadiadamasceno">      
-    <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=renatooliveiira&theme=dark&hide_border=true&stroke=f53b3b"/>
-  </a> 
-</p>
-
-    
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=footer"/>
