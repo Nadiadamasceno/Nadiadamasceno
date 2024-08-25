@@ -4,39 +4,76 @@
 
 ### 💻 About Me
 
-- 🎓 Currently, I'm pursuing a degree in software engineering, working diligently to sharpen my technical skills and knowledge.
+- 🎓 I'm a Software Engineering student, building my skills in cloud computing and data engineering.
 
-- ☁️ I have hands-on experience with the Amazon Web Services (AWS) platform, which I find both fascinating and practical.
+- ☁️ I have experience with AWS and Azure, and I enjoy creating scalable data solutions.
 
-- 🌱 I'm actively learning and improving my skills in Python, a versatile language with a wide range of applications, and SQL for efficient data management.
+- 🌱 I'm learning Python and SQL to improve my data management and problem-solving abilities.
 
-- 🔧 As a beginner in the world of IT, I'm excited about every opportunity to grow and explore new horizons.
+- 🔧 Knowledge in Marketing, Technology, Logistics and People Management, I bring a unique perspective to IT.
 
 ### 🚀 Goals
 
-- My long-term goal is to become a proficient data engineer, specializing in designing and maintaining data pipelines, as well as managing infrastructure.
+- My goal is to become a skilled Data Engineer and Solutions Architect, focusing on data pipelines and cloud infrastructure.
 
-- I'm enthusiastic about the potential of big data and analytics, and I look forward to leveraging data to make informed decisions and solve complex problems.
+- I'm passionate about Big Data, Data Analytics, and AI/ML, and I want to use these to solve problems and optimize processes.
 
-### 🛠️ Main skills:
-<div>
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma"/>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git"/>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"/>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python"/>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode"/>
-<img width="40" height="40" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-SQL-development-files-those-icons-flat-those-icons.png" alt="SQL"/>
-<img width="40" height="40" src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/external-notion-social-media-tanah-basah-glyph-tanah-basah.png" alt="notion"/>
+## Hard Skills:
+<br/>
+<p align="center">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/SAS-191970?style=for-the-badge&logo=SAS&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=SQL&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Power BI-FFD700?style=for-the-badge&logo=Power BI&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Azure-3FA9F5?style=for-the-badge&logo=Azure&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=sql&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=github&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=web_scraping&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Xmind-C72E49?style=for-the-badge&logo=powerbi&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Excel-007C3C?style=for-the-badge&logo=Excel&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Database-632CA6?style=for-the-badge&logo=database&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=statistics&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=statistics&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=statistics&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=statistics&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Anydesk-EF443B?style=for-the-badge&logo=statistics&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=statistics&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=OCI&logoColor=fff"/>
+</p>
+
+## Soft Skills:
+<br />
+<p align="center">
+<img src="https://img.shields.io/badge/Problem_Solving-DDA0DD?style=for-the-badge&logo=blue&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Creativity-DDA0DD?style=for-the-badge&logo=creativity&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Adaptability-DDA0DD?style=for-the-badge&logo=adaptability&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Flexibility-DDA0DD?style=for-the-badge&logo=flexibility&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Communication-DDA0DD?style=for-the-badge&logo=communication&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Emotional_Intelligence-DDA0DD?style=for-the-badge&logo=emotional_intelligence&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Protagonism-DDA0DD?style=for-the-badge&logo=protagonism&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Analytical_Thinking-DDA0DD?style=for-the-badge&logo=analytical_thinking&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Curiosity-DDA0DD?style=for-the-badge&logo=curiosity&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Organization-DDA0DD?style=for-the-badge&logo=organization&logoColor=fff"/>
+</p>
+
+## My Stats:
+<p align="center">
+<div style="border-radius: 15px; border: 5px solid #4B0082; overflow: hidden;">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=nadiadamasceno&show_icons=true&count_private=true&theme=radical&bg_color=DA70D6&title_color=FFFFFF&text_color=000000">
 </div>
-.
-.
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nadiadamasceno&show_icons=true&count_private=true&hide_border=true&title_color=0000ff&icon_color=0000ff&text_color=0000ff&bg_color=E6E6FA" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadiadamasceno&layout=compact&hide_border=true&title_color=0000ff&text_color=0000ff&bg_color=E6E6FA" />
-</div>
+</p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nadiadamasceno&bg_color=E6E6FA&color=0000ff&line=0000ff&point=0000ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Activity On GitHub
+<p align="center">
+  <a href="https://github.com/Nadiadamasceno">      
+    <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=renatooliveiira&theme=dark&hide_border=true&stroke=f53b3b"/>
+  </a> 
+</p>
 
+    
 
