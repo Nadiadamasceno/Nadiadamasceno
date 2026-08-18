@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Nádia+Damasceno;I+study+software+engineering+at+AMPLI;Welcome!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Nádia+Damasceno;I+study+software+engineering+at+Estácio;Welcome!+👋)](https://git.io/typing-svg)
 
 ### 💻 About Me
 
